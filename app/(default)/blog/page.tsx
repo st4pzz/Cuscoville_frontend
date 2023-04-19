@@ -4,10 +4,10 @@ import Image from 'next/image'
 import PostDate from '@/components/post-date'
 import PostTags from '@/components/post-tags'
 import PostItem from '@/components/post-item'
-import Analandia from '@/public/images/Logo/analandia.jpg'
-import Cuscozeiro from '@/public/images/Logo/cuscozeiro.jpg'
-import Camelo from '@/public/images/Logo/camelo.jpeg'
-import Natureza from '@/public/images/Logo/natureza.jpg'
+import Analandia from '@/public/images/analandia.jpg'
+import Cuscozeiro from '@/public/images/cuscozeiro.jpg'
+import Camelo from '@/public/images/camelo.jpeg'
+import Natureza from '@/public/images/natureza.jpg'
 
 export const metadata = {
   title: 'Cuscoville',

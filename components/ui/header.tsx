@@ -1,7 +1,7 @@
 import Link from 'next/link'
 import Dropdown from '@/components/utils/dropdown'
 import MobileMenu from './mobile-menu'
-import LogoCusco from '@/public/images/Logo/Logo.png'
+import LogoCusco from '@/public/images/Logo.png'
 import Image from 'next/image'
 
 import {Paper} from '@mui/material'
