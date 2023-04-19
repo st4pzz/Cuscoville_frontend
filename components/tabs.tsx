@@ -4,7 +4,7 @@ import { useRef, useState, useEffect } from 'react'
 
 import Image from 'next/image'
 import { Transition } from '@headlessui/react'
-import loteCusco from '@/public/images/Logo/lote.jpg'
+import loteCusco from '@/public/images/lote.jpg'
 
 export default function Tabs() {
 

@@ -3,7 +3,7 @@
 import { useState } from 'react'
 import Image from 'next/image'
 import Modal from '@/components/utils/modal'
-import IntroCusco from '@/public/images/Logo/intro.jpg'
+import IntroCusco from '@/public/images/intro.jpg'
 
 export default function HeroHome() {
 

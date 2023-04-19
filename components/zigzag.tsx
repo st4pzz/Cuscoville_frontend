@@ -1,9 +1,9 @@
 import Image from 'next/image'
 
-import obra1 from '@/public/images/Logo/obra1.jpg'
-import obra2 from '@/public/images/Logo/obra2.jpg'
-import obra3 from '@/public/images/Logo/obra3.jpg'
-import obra4 from '@/public/images/Logo/obra4.jpg'
+import obra1 from '@/public/images/obra1.jpg'
+import obra2 from '@/public/images/obra2.jpg'
+import obra3 from '@/public/images/obra3.jpg'
+import obra4 from '@/public/images/obra4.jpg'
 
 export default function Zigzag() {
   return (

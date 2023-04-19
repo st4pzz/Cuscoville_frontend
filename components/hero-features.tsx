@@ -1,6 +1,6 @@
 import Image from 'next/image'
 
-import EntradaCusco from '@/public/images/Logo/entrada.jpg'
+import EntradaCusco from '@/public/images/entrada.jpg'
 
 export default function HeroFeatures() {
   return (

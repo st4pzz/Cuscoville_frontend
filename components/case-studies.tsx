@@ -1,11 +1,11 @@
 import Image from 'next/image'
 
 import ParqueCusco from '@/public/images/parque.jpg'
-import PortariaCusco from '@/public/images/Logo/portaria.jpg'
-import AsfaltoCusco from '@/public/images/Logo/asfalto.jpg'
-import PiscinaCusco from '@/public/images/Logo/piscina.jpg'
-import EletricaCusco from '@/public/images/Logo/eletrica.jpg'
-import EsgotoCusco from '@/public/images/Logo/esgoto.jpg'
+import PortariaCusco from '@/public/images/portaria.jpg'
+import AsfaltoCusco from '@/public/images/asfalto.jpg'
+import PiscinaCusco from '@/public/images/piscina.jpg'
+import EletricaCusco from '@/public/images/eletrica.jpg'
+import EsgotoCusco from '@/public/images/esgoto.jpg'
 
 export default function CaseStudies() {
   return (
